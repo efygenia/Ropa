@@ -5,7 +5,7 @@ public class RopaDAO {
     
     public static String consultar() {
         
-        String dato= "Camisa";
+        String dato= "Camisa pantalon";
         return dato;
     }
 }
